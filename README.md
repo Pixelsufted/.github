@@ -1,2 +1,0 @@
-# Pixelsufted
-Pixelsuft makes software
